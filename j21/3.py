@@ -10,5 +10,3 @@ else:
     print("mamad")
 finally:
     print("rezaee")
-
-
